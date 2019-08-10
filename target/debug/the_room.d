@@ -1,0 +1,1 @@
+/home/shadryx/Programs/rust/rust-the-room/target/debug/the_room: /home/shadryx/Programs/rust/rust-the-room/src/main.rs /home/shadryx/Programs/rust/rust-the-room/src/story.rs /home/shadryx/Programs/rust/rust-the-room/src/lib.rs /home/shadryx/Programs/rust/rust-the-room/src/objects.rs
